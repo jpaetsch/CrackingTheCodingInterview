@@ -9,7 +9,7 @@
 // List thought/action approach(es)
 // Assumptions
 
-// Solution 1 - code with comments
+// Solution 1
 static string compressString(string str) {
 
     string compressed = "";
