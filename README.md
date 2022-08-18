@@ -14,7 +14,7 @@ A code repository for following the example problems in the Cracking the Coding 
 All solutions are written in C# and are psuedocode (may or may not be syntactically correct or tested using the .NET Fiddle online compiler).
 
 ## Potential Improvements
-N/A
+Properly set up C# syntax by compiling code (locally or online)
 
 ## Technologies
 C#
